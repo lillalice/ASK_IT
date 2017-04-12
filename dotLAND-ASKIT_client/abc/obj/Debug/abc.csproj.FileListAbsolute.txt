@@ -1,0 +1,96 @@
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\abc\abc\bin\Debug\abc.exe.config
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\abc\abc\bin\Debug\abc.exe
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\abc\abc\bin\Debug\abc.pdb
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\abc\abc\bin\Debug\MetroFramework.Design.dll
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\abc\abc\bin\Debug\MetroFramework.dll
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\abc\abc\bin\Debug\MetroFramework.Design.pdb
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\abc\abc\obj\Debug\abc.csprojResolveAssemblyReference.cache
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\abc\abc\obj\Debug\abc.Form1.resources
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\abc\abc\obj\Debug\abc.Properties.Resources.resources
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\abc\abc\obj\Debug\abc.csproj.GenerateResource.Cache
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\abc\abc\obj\Debug\abc.exe
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\abc\abc\obj\Debug\abc.pdb
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\abc\abc\bin\Debug\MetroFramework.Fonts.dll
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\abc\abc\bin\Debug\MetroFramework.Fonts.pdb
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\abc\abc\obj\Debug\abc.Form2.resources
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abc\abc\bin\Debug\abc.exe.config
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abc\abc\obj\Debug\abc.exe
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abc\abc\obj\Debug\abc.pdb
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abc\abc\bin\Debug\abc.exe
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abc\abc\bin\Debug\abc.pdb
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abc\abc\bin\Debug\MetroFramework.Design.pdb
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abc\abc\bin\Debug\MetroFramework.Fonts.pdb
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abc\abc\obj\Debug\abc.csprojResolveAssemblyReference.cache
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abc\abc\obj\Debug\abc.Properties.Resources.resources
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abc\abc\obj\Debug\abc.csproj.GenerateResource.Cache
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abc\abc\obj\Debug\abc.Home.resources
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abc\abc\obj\Debug\abc.ParentForm.resources
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abc\abc\obj\Debug\abc.Login.resources
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abc\abc\bin\Debug\dotLAND-ASKIT_serviceUser.dll
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abc\abc\bin\Debug\dotLAND-ASKIT_serviceUser.pdb
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\teamLAND\progresASKIT\abc\abc\bin\Debug\abc.exe.config
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\teamLAND\progresASKIT\abc\abc\obj\Debug\abc.exe
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\teamLAND\progresASKIT\abc\abc\obj\Debug\abc.pdb
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\teamLAND\progresASKIT\abc\abc\bin\Debug\abc.exe
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\teamLAND\progresASKIT\abc\abc\bin\Debug\abc.pdb
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\teamLAND\progresASKIT\abc\abc\bin\Debug\MetroFramework.Design.dll
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\teamLAND\progresASKIT\abc\abc\bin\Debug\MetroFramework.dll
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\teamLAND\progresASKIT\abc\abc\bin\Debug\MetroFramework.Fonts.dll
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\teamLAND\progresASKIT\abc\abc\bin\Debug\dotLAND-ASKIT_serviceUser.pdb
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\teamLAND\progresASKIT\abc\abc\bin\Debug\MetroFramework.Design.pdb
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\teamLAND\progresASKIT\abc\abc\bin\Debug\MetroFramework.Fonts.pdb
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\teamLAND\progresASKIT\abc\abc\obj\Debug\abc.csprojResolveAssemblyReference.cache
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\teamLAND\progresASKIT\abc\abc\obj\Debug\abc.Login.resources
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\teamLAND\progresASKIT\abc\abc\obj\Debug\abc.Home.resources
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\teamLAND\progresASKIT\abc\abc\obj\Debug\abc.ParentForm.resources
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\teamLAND\progresASKIT\abc\abc\obj\Debug\abc.Properties.Resources.resources
+A:\mahasiswa\Semester Lima\2.Pengembangan Aplikasi Terdistribusi(byMr-Giga)\teamLAND\progresASKIT\abc\abc\obj\Debug\abc.csproj.GenerateResource.Cache
+C:\Users\Enokichi\Downloads\Telegram Desktop\Backuplagi\abc\abc\bin\Debug\abc.exe.config
+C:\Users\Enokichi\Downloads\Telegram Desktop\Backuplagi\abc\abc\obj\Debug\abc.exe
+C:\Users\Enokichi\Downloads\Telegram Desktop\Backuplagi\abc\abc\obj\Debug\abc.pdb
+C:\Users\Enokichi\Downloads\Telegram Desktop\Backuplagi\abc\abc\bin\Debug\abc.exe
+C:\Users\Enokichi\Downloads\Telegram Desktop\Backuplagi\abc\abc\bin\Debug\abc.pdb
+C:\Users\Enokichi\Downloads\Telegram Desktop\Backuplagi\abc\abc\bin\Debug\dotLAND-ASKIT_serviceUser.dll
+C:\Users\Enokichi\Downloads\Telegram Desktop\Backuplagi\abc\abc\bin\Debug\dotLAND-ASKIT_serviceUser.pdb
+C:\Users\Enokichi\Downloads\Telegram Desktop\Backuplagi\abc\abc\bin\Debug\MetroFramework.Design.pdb
+C:\Users\Enokichi\Downloads\Telegram Desktop\Backuplagi\abc\abc\bin\Debug\MetroFramework.Fonts.pdb
+C:\Users\Enokichi\Downloads\Telegram Desktop\Backuplagi\abc\abc\obj\Debug\abc.csprojResolveAssemblyReference.cache
+C:\Users\Enokichi\Downloads\Telegram Desktop\Backuplagi\abc\abc\obj\Debug\abc.Login.resources
+C:\Users\Enokichi\Downloads\Telegram Desktop\Backuplagi\abc\abc\obj\Debug\abc.Home.resources
+C:\Users\Enokichi\Downloads\Telegram Desktop\Backuplagi\abc\abc\obj\Debug\abc.ParentForm.resources
+C:\Users\Enokichi\Downloads\Telegram Desktop\Backuplagi\abc\abc\obj\Debug\abc.Properties.Resources.resources
+C:\Users\Enokichi\Downloads\Telegram Desktop\Backuplagi\abc\abc\obj\Debug\abc.csproj.GenerateResource.Cache
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\bin\Debug\abc.exe.config
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\abc.exe
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\abc.pdb
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\bin\Debug\abc.exe
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\bin\Debug\abc.pdb
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\bin\Debug\dotLAND-ASKIT_serviceUser.pdb
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\bin\Debug\MetroFramework.Design.pdb
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\bin\Debug\MetroFramework.Fonts.pdb
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\abc.csprojResolveAssemblyReference.cache
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\abc.Login.resources
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\abc.Home.resources
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\abc.ParentForm.resources
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\abc.Properties.Resources.resources
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\abc.csproj.GenerateResource.Cache
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\bin\Debug\dotLAND-ASKIT_serviceUser.dll
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\abc.Form1.resources
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\bin\Debug\ASK_IT.exe.config
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\bin\Debug\ASK_IT.XML
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\abc.csprojResolveAssemblyReference.cache
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\abc.Form1.resources
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\abc.Login.resources
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\abc.Home.resources
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\abc.ParentForm.resources
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\ASK_IT.Properties.Resources.resources
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\abc.csproj.GenerateResource.Cache
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\bin\Debug\ASK_IT.exe
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\bin\Debug\ASK_IT.pdb
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\bin\Debug\dotLAND-ASKIT_serviceUser.dll
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\bin\Debug\dotLAND-ASKIT_serviceUser.pdb
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\bin\Debug\MetroFramework.Design.pdb
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\bin\Debug\MetroFramework.Fonts.pdb
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\ASK_IT.exe
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\ASK_IT.pdb
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\ASK_IT.TrustInfo.xml

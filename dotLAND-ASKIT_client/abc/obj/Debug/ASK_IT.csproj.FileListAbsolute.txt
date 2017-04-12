@@ -1,0 +1,10 @@
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\bin\Debug\ASK_IT.XML
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\abc.Form1.resources
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\abc.Login.resources
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\abc.Home.resources
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\abc.ParentForm.resources
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\ASK_IT.Properties.Resources.resources
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\ASK_IT.csproj.GenerateResource.Cache
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\ASK_IT.TrustInfo.xml
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\ASK_IT.exe
+D:\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\abcde\abc\abc\obj\Debug\ASK_IT.pdb

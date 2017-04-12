@@ -1,0 +1,6 @@
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\dotLAND-ASKIT_serviceUser\dotLAND-ASKIT_serviceUser\bin\Debug\dotLAND-ASKIT_serviceUser.dll.config
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\dotLAND-ASKIT_serviceUser\dotLAND-ASKIT_serviceUser\bin\Debug\dotLAND-ASKIT_serviceUser.dll
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\dotLAND-ASKIT_serviceUser\dotLAND-ASKIT_serviceUser\bin\Debug\dotLAND-ASKIT_serviceUser.pdb
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\dotLAND-ASKIT_serviceUser\dotLAND-ASKIT_serviceUser\obj\Debug\dotLAND-ASKIT_serviceUser.csprojResolveAssemblyReference.cache
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\dotLAND-ASKIT_serviceUser\dotLAND-ASKIT_serviceUser\obj\Debug\dotLAND-ASKIT_serviceUser.dll
+D:\Lilla's\Documents\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\Last Project\dotLAND-ASKIT_serviceUser\dotLAND-ASKIT_serviceUser\obj\Debug\dotLAND-ASKIT_serviceUser.pdb
